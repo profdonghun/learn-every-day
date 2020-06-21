@@ -1,0 +1,20 @@
+Setup 과정
+
+1) Windows 환경
+  a. Input method
+OK ==> Yes ==> ibus check ==> OK
+
+  b. Language Support
+install / remove language ==> Korean
+
+  확인 사항
+  Keyboard input method system이 iBus인지 확인
+
+2) Terminal 환경
+Ctrl + Alt + T
+ibus-setup
+Input Method ==> Add ==> … ==> Korean ==> Hangul ==> Add
+
+3) Windows 환경
+Setting ==> Region & Language
+Input source ==> + ==> Korean(Hangul)
